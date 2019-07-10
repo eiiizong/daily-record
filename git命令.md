@@ -20,8 +20,10 @@
 
 `git remote add origin https://github.com/eiiizong/react.git` 添加上传至云端的URL
 
-`git push -u origin master` 上传至云端
+`git push -u origin <branch name>` 上传到云端的什么分支上
 
 `git remote -v` 查看 `clone` 的地址
 
 `git remote rm origin` 移除 HTTPS clone 方式
+
+`git remote add origin git@github.com:eiiizong/daily-record.git` 新添加上 SSH 方式
