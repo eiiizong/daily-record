@@ -1,5 +1,7 @@
 ## git 常用命令
 
++ [查看分支](https://github.com/eiiizong/daily-record/blob/master/%E6%93%8D%E4%BD%9C%E7%AC%A6.md#%E4%BD%8D%E6%93%8D%E4%BD%9C%E7%AC%A6)
+
 `git branch` 查看分支
 
 `git branch <name>` 创建分支
